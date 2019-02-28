@@ -1,0 +1,12 @@
+C:\Users\9950230\source\repos\Random\AscendingOrderDoubles\bin\Debug\AscendingOrderDoubles.exe.config
+C:\Users\9950230\source\repos\Random\AscendingOrderDoubles\bin\Debug\AscendingOrderDoubles.exe
+C:\Users\9950230\source\repos\Random\AscendingOrderDoubles\bin\Debug\AscendingOrderDoubles.pdb
+C:\Users\9950230\source\repos\Random\AscendingOrderDoubles\obj\Debug\AscendingOrderDoubles.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Random\AscendingOrderDoubles\obj\Debug\AscendingOrderDoubles.exe
+C:\Users\9950230\source\repos\Random\AscendingOrderDoubles\obj\Debug\AscendingOrderDoubles.pdb
+C:\Users\9950230\source\repos\6211-Random\AscendingOrderDoubles\bin\Debug\AscendingOrderDoubles.exe.config
+C:\Users\9950230\source\repos\6211-Random\AscendingOrderDoubles\bin\Debug\AscendingOrderDoubles.exe
+C:\Users\9950230\source\repos\6211-Random\AscendingOrderDoubles\bin\Debug\AscendingOrderDoubles.pdb
+C:\Users\9950230\source\repos\6211-Random\AscendingOrderDoubles\obj\Debug\AscendingOrderDoubles.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\6211-Random\AscendingOrderDoubles\obj\Debug\AscendingOrderDoubles.exe
+C:\Users\9950230\source\repos\6211-Random\AscendingOrderDoubles\obj\Debug\AscendingOrderDoubles.pdb

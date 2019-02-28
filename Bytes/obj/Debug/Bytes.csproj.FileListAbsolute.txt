@@ -1,0 +1,6 @@
+C:\Users\9950230\source\repos\Random\Bytes\bin\Debug\Bytes.exe.config
+C:\Users\9950230\source\repos\Random\Bytes\bin\Debug\Bytes.exe
+C:\Users\9950230\source\repos\Random\Bytes\bin\Debug\Bytes.pdb
+C:\Users\9950230\source\repos\Random\Bytes\obj\Debug\Bytes.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Random\Bytes\obj\Debug\Bytes.exe
+C:\Users\9950230\source\repos\Random\Bytes\obj\Debug\Bytes.pdb

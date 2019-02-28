@@ -1,0 +1,6 @@
+C:\Users\9950230\source\repos\Random\OneThousandRandomIntegers\bin\Debug\OneThousandRandomIntegers.exe.config
+C:\Users\9950230\source\repos\Random\OneThousandRandomIntegers\bin\Debug\OneThousandRandomIntegers.exe
+C:\Users\9950230\source\repos\Random\OneThousandRandomIntegers\bin\Debug\OneThousandRandomIntegers.pdb
+C:\Users\9950230\source\repos\Random\OneThousandRandomIntegers\obj\Debug\OneThousandRandomIntegers.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Random\OneThousandRandomIntegers\obj\Debug\OneThousandRandomIntegers.exe
+C:\Users\9950230\source\repos\Random\OneThousandRandomIntegers\obj\Debug\OneThousandRandomIntegers.pdb

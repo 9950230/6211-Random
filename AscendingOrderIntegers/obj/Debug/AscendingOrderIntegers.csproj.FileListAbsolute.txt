@@ -1,0 +1,6 @@
+C:\Users\9950230\source\repos\Random\AscendingOrderIntegers\bin\Debug\AscendingOrderIntegers.exe.config
+C:\Users\9950230\source\repos\Random\AscendingOrderIntegers\bin\Debug\AscendingOrderIntegers.exe
+C:\Users\9950230\source\repos\Random\AscendingOrderIntegers\bin\Debug\AscendingOrderIntegers.pdb
+C:\Users\9950230\source\repos\Random\AscendingOrderIntegers\obj\Debug\AscendingOrderIntegers.csproj.CoreCompileInputs.cache
+C:\Users\9950230\source\repos\Random\AscendingOrderIntegers\obj\Debug\AscendingOrderIntegers.exe
+C:\Users\9950230\source\repos\Random\AscendingOrderIntegers\obj\Debug\AscendingOrderIntegers.pdb
